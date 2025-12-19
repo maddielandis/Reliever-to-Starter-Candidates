@@ -4,9 +4,11 @@
 
 **Parameters**
 
+Arsenal Stats:
+
 At least 2 Elite Pitches (Stuff+ > 100)
 
-Command/Control
+Command/Control:
 
 Location+ > 100
 
