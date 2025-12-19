@@ -1,5 +1,7 @@
 **Original Article:** https://talksox.com/news-rumors/boston-red-sox/how-to-turn-a-reliever-into-a-starting-pitcher-inside-baseballs-newest-pitching-trend-r2078/
 
+**Data Source**: Downloaded from FanGraphs using the Custom Reports option
+
 **Parameters**
 
 At least 2 Elite Pitches (Stuff+ > 100)
